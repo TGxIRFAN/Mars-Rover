@@ -1,0 +1,4 @@
+ffmpeg 
+neofetch 
+mediainfo
+p7zip-full
